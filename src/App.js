@@ -17,7 +17,8 @@ function App() {
         >
           Learn React
         </a>
-      </header>
+        <p>Putting my React application live with Netlify for the first time</p>
+      </header> 
     </div>
   );
 }
